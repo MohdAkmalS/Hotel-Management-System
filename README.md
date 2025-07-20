@@ -17,4 +17,5 @@ Tech Stack
 |-----------|---------------------------|
 | Java      | Core application logic    |
 | MySQL     | Database for data storage |
+| OOPS      | OOPS                      |
 | JDBC      | Java DB Connectivity      |
