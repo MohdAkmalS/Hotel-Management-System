@@ -2,7 +2,7 @@
 
 A console-based Hotel Management System built using **Java** and **MySQL**. This system allows hotel staff to manage room bookings, check-in/check-out and room availability.
 
-🚀 Features
+Features
 
 - Room Booking System  
 - Room Availability Checker  
@@ -11,7 +11,7 @@ A console-based Hotel Management System built using **Java** and **MySQL**. This
 - Admin Access for Room Management  
 - Uses **OOP Concepts** (Encapsulation, Inheritance, Polymorphism)
 
-🛠️ Tech Stack
+Tech Stack
 
 | Technology | Purpose                  |
 |-----------|---------------------------|
