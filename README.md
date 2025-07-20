@@ -9,7 +9,7 @@ Features
 - Customer Check-In and Check-Out  
 - Store and Retrieve Customer Details  
 - Admin Access for Room Management  
-- Uses **OOP Concepts** (Encapsulation, Inheritance, Polymorphism)
+- Uses **OOP Concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction)
 
 Tech Stack
 
